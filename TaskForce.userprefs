@@ -1,0 +1,50 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Clouds.cs">
+    <Files>
+      <File FileName="Assets/Script/Clouds.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TaskManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TileMapManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ProgressBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Helicopter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Soldier.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Thrower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PlayerFollower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Task.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/AnimationEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/WeaponButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ItemManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Grenade.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Map.cs" Line="1" Column="1" />
+      <File FileName="../2dDemo/Assets/Scripts/PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Box.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/EnemySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Bullet.cs" Line="1" Column="1" />
+      <File FileName="../SmoothMoves Demo/Assets/Rise of the Dough/Scripts/ROTD_Chef.cs" Line="1" Column="1" />
+      <File FileName="../SmoothMoves Demo/Assets/Rise of the Dough/Scripts/ROTD_SoundFXManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Shell.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Clouds.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Cloud.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ButtonHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Follower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/WaitForClear.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TilesClear.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Bone.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Skeleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Destroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Parachute.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GPGHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Rank.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Bullet4Gun3.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/MainCameraFollower.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
