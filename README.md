@@ -1,5 +1,5 @@
 # taskforce-unity
-TaskForce is a 2D shooting game, which was launched in 2014, and now is official offline.
+TaskForce is a 2D shooting game, which was launched on Google Play in 2014, and now is officially offline.
 
 This repository is the backup of TaskForce Unity3D project.
 
